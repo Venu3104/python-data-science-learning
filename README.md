@@ -90,11 +90,11 @@ A practical project applying NumPy concepts to analyze student marks.
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/python-data-science-learning.git
+git clone https://github.com/Venu3104/python-data-science-learning.git
 cd python-data-science-learning
 ```
 
-Replace `YOUR_USERNAME` with your GitHub username.
+
 
 ### 2. Create a virtual environment
 
